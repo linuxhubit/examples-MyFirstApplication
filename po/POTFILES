@@ -1,0 +1,7 @@
+data/com.mirko.MyFirstApplication.desktop.in
+data/com.mirko.MyFirstApplication.appdata.xml.in
+data/com.mirko.MyFirstApplication.gschema.xml
+src/window.ui
+src/main.py
+src/window.py
+
